@@ -1,4 +1,14 @@
+# Real-Time Accident Information System
 
+An ML-powered application for real-time accident reporting, analysis, and insurance dispute resolution.
+
+## Features
+
+- Real-time accident reporting interface
+- ML-based severity prediction
+- Accident history visualization
+- Automated dispute resolution suggestions
+- Interactive dashboard for accident monitoring
 
 ## Setup
 
